@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyChatApp</string>
+    <string name="seu_nome">Seu nome:</string>
+    <string name="porta">Porta:</string>
+    <string name="ip_servidor">IP servidor:</string>
+    <string name="offline_toast">Offline, mensagens serão armazenadas localmente para posterior envio!</string>
+    <string name="preencha_campos_toast">Preencha devidamente os campos!</string>
+    <string name="nao_conectou_toast">Não foi possível conectar!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="escreva_a_mensagem">Escreva a mensagem</string>
+    <string name="sair">sair</string>
+</resources>
