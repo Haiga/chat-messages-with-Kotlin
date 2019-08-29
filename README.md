@@ -11,4 +11,4 @@ Essa aplicação utiliza como servidor a aplicação ClienteSocketC em https://g
 
 * [Android - RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview) - Widget para mostrar elementos em lista na tela.
 * [Anko - SQLite](https://github.com/Kotlin/anko/wiki/Anko-SQLite) - a query DSL and parser collection for Android SQLite.
-* [Java - Socket](https://developer.android.com/reference/java/net/Socket) - Implementa Cliente Sockets
+* [Java - Socket](https://developer.android.com/reference/java/net/Socket) - Implementa Cliente Sockets.
